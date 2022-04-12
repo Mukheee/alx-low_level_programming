@@ -4,7 +4,8 @@
  *
  *Return: always 0
  */
-main print_alphabet(void)
+void print_alphabet(void)
+
 {
 char alphabet;
 
