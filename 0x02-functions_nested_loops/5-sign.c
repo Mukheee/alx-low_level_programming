@@ -21,7 +21,7 @@ _putchar ('0');
 return (0);
 }
 
-else 
+else
 {
 _putchar ('_');
 return (-1);
