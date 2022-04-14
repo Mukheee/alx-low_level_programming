@@ -2,11 +2,11 @@
 #include <stdio.h>
 
 /**
- * main - prints from 1 to 100, followed by a new line
- * but for multiples of three prints Fizz instead of the number
- * and for the multiples of five prints Buzz
- * Return: Always 0 (Success)
+ * main - entry point
+ *
+ * Return: void
  */
+
 int main(void)
 {
 int p = 100;
@@ -36,7 +36,7 @@ printf("Buzz");
 
 else
 {
-printf(%i ", i);
+printf("%i ", i);
 }
 
 i++;
