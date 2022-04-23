@@ -41,5 +41,5 @@ m = r[k];
 r[k] = r[l];
 r[l] = m;
 }
-return (r);
+return (0);
 }
