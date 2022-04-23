@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**
  * infinite_add - adds two numbers
  * @n1: first number
@@ -41,5 +42,5 @@ m = r[k];
 r[k] = r[l];
 r[l] = m;
 }
-return (0);
+return (r);
 }
